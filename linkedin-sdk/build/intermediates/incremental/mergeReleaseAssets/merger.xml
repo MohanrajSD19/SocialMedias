@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/home/innobot-linux-4/AndroidStudioProjects/SocialMedias/linkedin-sdk/src/main/assets"/><source path="/home/innobot-linux-4/AndroidStudioProjects/SocialMedias/linkedin-sdk/build/generated/assets/shaders/release"/></dataSet><dataSet config="release"><source path="/home/innobot-linux-4/AndroidStudioProjects/SocialMedias/linkedin-sdk/src/release/assets"/></dataSet></merger>

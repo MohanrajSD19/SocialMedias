@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/innobot-linux-4/AndroidStudioProjects/SocialMedias/sampleapp/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/home/innobot-linux-4/.android/build-cache/dcc512110d1c9ae83864a27b6a19e833eb72161f/output/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/home/innobot-linux-4/AndroidStudioProjects/SocialMedias/sampleapp/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/home/innobot-linux-4/.android/build-cache/dcc512110d1c9ae83864a27b6a19e833eb72161f/output/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/home/innobot-linux-4/AndroidStudioProjects/SocialMedias/sampleapp/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/home/innobot-linux-4/.android/build-cache/dcc512110d1c9ae83864a27b6a19e833eb72161f/output/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/home/innobot-linux-4/AndroidStudioProjects/SocialMedias/sampleapp/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/home/innobot-linux-4/.android/build-cache/dcc512110d1c9ae83864a27b6a19e833eb72161f/output/res/layout-v21/notification_template_icon_group.xml"
+    }
+]

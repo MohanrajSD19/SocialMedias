@@ -1,0 +1,1 @@
+include ':sampleapp', ':linkedin-sdk', ':eventsapp', ':app', ':myfbsharing', ':myfbsharing2', ':mylinkshareapp', ':mytweetshareapp'

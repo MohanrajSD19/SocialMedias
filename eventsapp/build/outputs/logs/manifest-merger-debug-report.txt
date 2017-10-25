@@ -1,0 +1,95 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/innobot-linux-4/AndroidStudioProjects/SocialMedias/eventsapp/src/main/AndroidManifest.xml:2:1-26:12
+	package
+		ADDED from /home/innobot-linux-4/AndroidStudioProjects/SocialMedias/eventsapp/src/main/AndroidManifest.xml:3:5-45
+	android:versionName
+		INJECTED from /home/innobot-linux-4/AndroidStudioProjects/SocialMedias/eventsapp/src/main/AndroidManifest.xml
+		INJECTED from /home/innobot-linux-4/AndroidStudioProjects/SocialMedias/eventsapp/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/innobot-linux-4/AndroidStudioProjects/SocialMedias/eventsapp/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /home/innobot-linux-4/AndroidStudioProjects/SocialMedias/eventsapp/src/main/AndroidManifest.xml
+		INJECTED from /home/innobot-linux-4/AndroidStudioProjects/SocialMedias/eventsapp/src/main/AndroidManifest.xml
+application
+ADDED from /home/innobot-linux-4/AndroidStudioProjects/SocialMedias/eventsapp/src/main/AndroidManifest.xml:5:5-24:19
+MERGED from [SocialMedias:linkedin-sdk:unspecified] /home/innobot-linux-4/AndroidStudioProjects/SocialMedias/linkedin-sdk/build/intermediates/bundles/default/AndroidManifest.xml:13:5-20
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /home/innobot-linux-4/.android/build-cache/dcc512110d1c9ae83864a27b6a19e833eb72161f/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /home/innobot-linux-4/.android/build-cache/3a3ba846dbb1ea6efc8ba385ecf5f9d71064411d/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /home/innobot-linux-4/.android/build-cache/f0724de6d3543cd4ff87a6c1f1f4d0e8d1c3322b/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /home/innobot-linux-4/.android/build-cache/7edbaa4dfb36864886d36f3576542d3de76df2e5/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /home/innobot-linux-4/.android/build-cache/38df44822cbea29524ff388205ebbd440fa5e599/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /home/innobot-linux-4/.android/build-cache/6bd2a88d1bf9ae67c9d1419bddc8b98bace71286/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /home/innobot-linux-4/.android/build-cache/9dc39e8cdb57d29f341acb8fcc1908debb79db0d/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /home/innobot-linux-4/.android/build-cache/3c45420a10fff33101cfc0cbdd973a73d8b826e1/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /home/innobot-linux-4/.android/build-cache/ec791551c00219d9dc25d5e311308807caddd795/output/AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from /home/innobot-linux-4/AndroidStudioProjects/SocialMedias/eventsapp/src/main/AndroidManifest.xml:7:9-41
+	android:allowBackup
+		ADDED from /home/innobot-linux-4/AndroidStudioProjects/SocialMedias/eventsapp/src/main/AndroidManifest.xml:6:9-35
+	android:largeHeap
+		ADDED from /home/innobot-linux-4/AndroidStudioProjects/SocialMedias/eventsapp/src/main/AndroidManifest.xml:8:9-33
+activity#com.linkedin.android.eventsapp.MainActivity
+ADDED from /home/innobot-linux-4/AndroidStudioProjects/SocialMedias/eventsapp/src/main/AndroidManifest.xml:9:9-18:20
+	android:screenOrientation
+		ADDED from /home/innobot-linux-4/AndroidStudioProjects/SocialMedias/eventsapp/src/main/AndroidManifest.xml:11:13-49
+	android:theme
+		ADDED from /home/innobot-linux-4/AndroidStudioProjects/SocialMedias/eventsapp/src/main/AndroidManifest.xml:12:13-51
+	android:name
+		ADDED from /home/innobot-linux-4/AndroidStudioProjects/SocialMedias/eventsapp/src/main/AndroidManifest.xml:10:13-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/innobot-linux-4/AndroidStudioProjects/SocialMedias/eventsapp/src/main/AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from /home/innobot-linux-4/AndroidStudioProjects/SocialMedias/eventsapp/src/main/AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from /home/innobot-linux-4/AndroidStudioProjects/SocialMedias/eventsapp/src/main/AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/innobot-linux-4/AndroidStudioProjects/SocialMedias/eventsapp/src/main/AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from /home/innobot-linux-4/AndroidStudioProjects/SocialMedias/eventsapp/src/main/AndroidManifest.xml:16:27-74
+activity#com.linkedin.android.eventsapp.ProfileActivity
+ADDED from /home/innobot-linux-4/AndroidStudioProjects/SocialMedias/eventsapp/src/main/AndroidManifest.xml:19:9-23:20
+	android:screenOrientation
+		ADDED from /home/innobot-linux-4/AndroidStudioProjects/SocialMedias/eventsapp/src/main/AndroidManifest.xml:21:13-49
+	android:label
+		ADDED from /home/innobot-linux-4/AndroidStudioProjects/SocialMedias/eventsapp/src/main/AndroidManifest.xml:22:13-59
+	android:name
+		ADDED from /home/innobot-linux-4/AndroidStudioProjects/SocialMedias/eventsapp/src/main/AndroidManifest.xml:20:13-44
+uses-sdk
+INJECTED from /home/innobot-linux-4/AndroidStudioProjects/SocialMedias/eventsapp/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [SocialMedias:linkedin-sdk:unspecified] /home/innobot-linux-4/AndroidStudioProjects/SocialMedias/linkedin-sdk/build/intermediates/bundles/default/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /home/innobot-linux-4/.android/build-cache/dcc512110d1c9ae83864a27b6a19e833eb72161f/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /home/innobot-linux-4/.android/build-cache/3a3ba846dbb1ea6efc8ba385ecf5f9d71064411d/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /home/innobot-linux-4/.android/build-cache/f0724de6d3543cd4ff87a6c1f1f4d0e8d1c3322b/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /home/innobot-linux-4/.android/build-cache/7edbaa4dfb36864886d36f3576542d3de76df2e5/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /home/innobot-linux-4/.android/build-cache/38df44822cbea29524ff388205ebbd440fa5e599/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /home/innobot-linux-4/.android/build-cache/6bd2a88d1bf9ae67c9d1419bddc8b98bace71286/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /home/innobot-linux-4/.android/build-cache/9dc39e8cdb57d29f341acb8fcc1908debb79db0d/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /home/innobot-linux-4/.android/build-cache/3c45420a10fff33101cfc0cbdd973a73d8b826e1/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /home/innobot-linux-4/.android/build-cache/ec791551c00219d9dc25d5e311308807caddd795/output/AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] /home/innobot-linux-4/.android/build-cache/dcc512110d1c9ae83864a27b6a19e833eb72161f/output/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /home/innobot-linux-4/AndroidStudioProjects/SocialMedias/eventsapp/src/main/AndroidManifest.xml
+		INJECTED from /home/innobot-linux-4/AndroidStudioProjects/SocialMedias/eventsapp/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/innobot-linux-4/AndroidStudioProjects/SocialMedias/eventsapp/src/main/AndroidManifest.xml
+		INJECTED from /home/innobot-linux-4/AndroidStudioProjects/SocialMedias/eventsapp/src/main/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from [SocialMedias:linkedin-sdk:unspecified] /home/innobot-linux-4/AndroidStudioProjects/SocialMedias/linkedin-sdk/build/intermediates/bundles/default/AndroidManifest.xml:11:5-67
+	android:name
+		ADDED from [SocialMedias:linkedin-sdk:unspecified] /home/innobot-linux-4/AndroidStudioProjects/SocialMedias/linkedin-sdk/build/intermediates/bundles/default/AndroidManifest.xml:11:22-64
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] /home/innobot-linux-4/.android/build-cache/dcc512110d1c9ae83864a27b6a19e833eb72161f/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /home/innobot-linux-4/.android/build-cache/3a3ba846dbb1ea6efc8ba385ecf5f9d71064411d/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /home/innobot-linux-4/.android/build-cache/f0724de6d3543cd4ff87a6c1f1f4d0e8d1c3322b/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /home/innobot-linux-4/.android/build-cache/7edbaa4dfb36864886d36f3576542d3de76df2e5/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /home/innobot-linux-4/.android/build-cache/38df44822cbea29524ff388205ebbd440fa5e599/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /home/innobot-linux-4/.android/build-cache/6bd2a88d1bf9ae67c9d1419bddc8b98bace71286/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /home/innobot-linux-4/.android/build-cache/9dc39e8cdb57d29f341acb8fcc1908debb79db0d/output/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /home/innobot-linux-4/.android/build-cache/3c45420a10fff33101cfc0cbdd973a73d8b826e1/output/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /home/innobot-linux-4/.android/build-cache/ec791551c00219d9dc25d5e311308807caddd795/output/AndroidManifest.xml:25:5-27:41
+	android:value
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] /home/innobot-linux-4/.android/build-cache/dcc512110d1c9ae83864a27b6a19e833eb72161f/output/AndroidManifest.xml:27:9-38
+	android:name
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] /home/innobot-linux-4/.android/build-cache/dcc512110d1c9ae83864a27b6a19e833eb72161f/output/AndroidManifest.xml:26:9-47

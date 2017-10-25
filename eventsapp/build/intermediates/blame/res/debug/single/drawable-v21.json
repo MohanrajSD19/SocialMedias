@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/innobot-linux-4/AndroidStudioProjects/SocialMedias/eventsapp/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/home/innobot-linux-4/.android/build-cache/dcc512110d1c9ae83864a27b6a19e833eb72161f/output/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/home/innobot-linux-4/AndroidStudioProjects/SocialMedias/eventsapp/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/home/innobot-linux-4/.android/build-cache/dcc512110d1c9ae83864a27b6a19e833eb72161f/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/home/innobot-linux-4/AndroidStudioProjects/SocialMedias/eventsapp/build/intermediates/res/merged/debug/drawable-v21/notification_action_background.xml",
+        "source": "/home/innobot-linux-4/.android/build-cache/dcc512110d1c9ae83864a27b6a19e833eb72161f/output/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/home/innobot-linux-4/AndroidStudioProjects/SocialMedias/eventsapp/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/home/innobot-linux-4/.android/build-cache/dcc512110d1c9ae83864a27b6a19e833eb72161f/output/res/drawable-v21/abc_edit_text_material.xml"
+    }
+]

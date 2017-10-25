@@ -1,0 +1,5 @@
+<resources >
+    <string name="app_name">MyTweetShareApp</string>
+    <string name="com.twitter.sdk.android.CONSUMER_KEY">pRAotCjJHdZyIhxzaTv3r18vv</string>
+    <string name="com.twitter.sdk.android.CONSUMER_SECRET">Pygyq6CUJgdmghD7qUNYfks8ZO1Di8lKTonaZhmQuvpQTltWNm</string>
+</resources>
